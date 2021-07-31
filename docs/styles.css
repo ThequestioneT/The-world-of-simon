@@ -28,7 +28,7 @@ a:hover {
 .menu-body {
   display: flex;
   flex-flow: column wrap;
-  background-image: url(../docs/imagenes/bg-2.jpg);
+  background-image: url(../imagenes/bg-2.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
